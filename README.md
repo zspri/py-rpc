@@ -1,3 +1,6 @@
+# Dead Project
+I woudl recommend using [PyPresence](https://github.com/qwertyquerty/pypresence). It is a maintained and functional Discord RPC library written for use in Python projects. 
+
 # PyRPC
 
 A library for connecting Discord Rich Presence to Python.
